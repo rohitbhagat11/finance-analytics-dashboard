@@ -1,6 +1,6 @@
 # Finance Analytics Dashboard
 An Excel dashboard for exploring personal finance across income, expenses, savings, budgets, accounts, banks, and payment methods.
-![Finance dashboard preview][Finance dashboard preview](finance-dashboard-preview.png)
+![Finance dashboard preview]![Finance dashboard preview](finance-dashboard-preview.png)
 ## Dashboard features
 - Summary metrics for income, expenses, net savings, savings rate, budget utilization, and currency balance
 - Monthly income and expense trends
